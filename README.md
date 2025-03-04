@@ -3,7 +3,7 @@ ReactAPP-MySql
 
 ## Demo Video
 
-Watch the demo of the functionality here:
+Watch the demo of the functionality here: https://youtu.be/eGi2e6rLnGM
 
 # News Portal Project
 
