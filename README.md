@@ -1,6 +1,10 @@
 # ZAVOD_IT_US
 ReactAPP-MySql
 
+## Demo Video
+
+Watch the demo of the functionality here:
+
 # News Portal Project
 
 This project is a simple news portal where you can view and manage news. It uses React for the frontend, MySQL for the backend database, and Express.js to handle API requests. The admin panel allows for creating and deleting news, and the frontend dynamically displays data from the database.
